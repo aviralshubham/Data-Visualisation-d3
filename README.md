@@ -1,5 +1,5 @@
 # GDP Per Capita Income
-1. This is Visualisation project using d3 .
+1. This is Visualisation project using d3 . (Note i'll update with Corporate Revenue DashBoard)
 2. This is a dynamic data visualisation with data of more than 100 years. 
 3. Please Run first then judge .
 4. Use of jquery Slider as well.
