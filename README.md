@@ -18,6 +18,7 @@ Advanced Data Visualisation - With component jquery slider, Donut PieChart
 
 ![Project 4 - FreedomCorp Dashboard and 9 more pages - Personal - Microsoft​ Edge 9_21_2020 2_44_16 PM](https://user-images.githubusercontent.com/43784961/93750948-eb487e00-fc19-11ea-9392-fb803475edfe.png)
 
+Bubble Data Visualisation with Jquery slider
 
 ![Project 4 - FreedomCorp Dashboard and 9 more pages - Personal - Microsoft​ Edge 9_21_2020 2_47_26 PM](https://user-images.githubusercontent.com/43784961/93750963-f0a5c880-fc19-11ea-9e8b-8c9eb2eb581f.png)
 
