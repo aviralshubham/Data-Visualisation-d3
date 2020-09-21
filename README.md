@@ -12,9 +12,15 @@
 3. open cmd or powershell from there and type command
     : python -m http server
    
-# Following are Preview    
+# Following are Preview   
 
-![6 7 - jQuery UI slider and 6 more pages - Personal - Microsoft​ Edge 9_21_2020 1_48_12 PM](https://user-images.githubusercontent.com/43784961/93746795-56428680-fc13-11ea-990f-926003437583.png)
+Advanced Data Visualisation - With component jquery slider, Donut PieChart
+
+![Project 4 - FreedomCorp Dashboard and 9 more pages - Personal - Microsoft​ Edge 9_21_2020 2_44_16 PM](https://user-images.githubusercontent.com/43784961/93750673-79703480-fc19-11ea-9f61-fb257625e6eb.png)
+
+
+![Project 4 - FreedomCorp Dashboard and 9 more pages - Personal - Microsoft​ Edge 9_21_2020 2_47_26 PM](https://user-images.githubusercontent.com/43784961/93750654-72e1bd00-fc19-11ea-9b1a-72e5ab022c06.png)
+
 
 
 # Contact Me
